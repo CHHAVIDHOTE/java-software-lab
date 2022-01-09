@@ -1,0 +1,18 @@
+public class program2 {
+
+  public static void main(String[] args) {
+    int a = 10;
+    int b = 20;
+    int add = a + b;
+    int subtract = a - b;
+    int multiply = a * b;
+    int division = a / b;
+    int mod = a % b;
+
+    System.out.println("The Addtion of a and b is" + add);
+    System.out.println("The Subtraction of a and b is" + subtract);
+    System.out.println("The Multiplication of a and b is " + multiply);
+    System.out.println("The Division of a and b is" + division);
+    System.out.println("The modul of a and b is" + mod);
+  }
+}
